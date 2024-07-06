@@ -1,8 +1,8 @@
-# Git and GitHub Tutorial
+# 📚 Git and GitHub Tutorial
 
-This repository contains my practice files and notes while following the [Git and GitHub for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/) tutorial from FreeCodeCamp. This tutorial is designed to help beginners understand the basics of using Git and GitHub.
+Welcome to the **Git and GitHub Tutorial** repository! This repo contains my practice files and notes while following the [Git and GitHub for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/) tutorial from FreeCodeCamp. This tutorial is designed to help beginners understand the basics of using Git and GitHub.
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
@@ -13,15 +13,15 @@ This repository contains my practice files and notes while following the [Git an
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-## Introduction
+## 🌟 Introduction
 
 This project is a practice repository for learning how to use Git and GitHub. The tutorial from FreeCodeCamp covers essential concepts such as version control, creating and managing repositories, making commits, branching, and more.
 
-## Getting Started
+## 🚀 Getting Started
 
 To get started with this project, you will need to have Git installed on your local machine. You can download Git from the official [Git website](https://git-scm.com/).
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository to your local machine:
     ```sh
@@ -35,7 +35,7 @@ To get started with this project, you will need to have Git installed on your lo
 
 3. Follow the steps in the tutorial to start practicing Git and GitHub commands.
 
-## Basic Git Commands
+## 🛠️ Basic Git Commands
 
 Here are some of the basic Git commands that are covered in the tutorial:
 
@@ -49,7 +49,24 @@ Here are some of the basic Git commands that are covered in the tutorial:
 - `git branch`: List, create, or delete branches
 - `git checkout [branch-name]`: Switch to a different branch
 
-## Project Structure
+## 🗂️ Project Structure
 
 The project structure is simple and consists of the following files and directories:
 
+```
+git-and-github-tutorial/
+├── .gitignore
+├── README.md
+├── todo.txt
+```
+
+
+- `README.md`: This file.
+- `.gitignore`: A file specifying untracked files to ignore.
+- `practice-files/`: Directory containing practice files used during the tutorial.
+
+## 🙏 Acknowledgements
+
+- Thanks to FreeCodeCamp for providing an excellent tutorial on Git and GitHub for beginners.
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
