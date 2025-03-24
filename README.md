@@ -63,7 +63,7 @@ git-and-github-tutorial/
 
 - `README.md`: This file.
 - `.gitignore`: A file specifying untracked files to ignore.
-- `practice-files/`: Directory containing practice files used during the tutorial.
+- `todo.txt`: Containing practice files used during the tutorial.
 
 ## 🙏 Acknowledgements
 
